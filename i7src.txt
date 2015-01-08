@@ -1,0 +1,72 @@
+"DG2015A" by "K. K31 Thompson"
+
+Chapter 1 
+[The Room of Dell/Dull G., aka D-G]
+
+The bedroom is a room."This place is a mess!" 
+
+Bored is a person. "Bored, the person of questionable gender whom you are fucking."
+
+[Instead of attacked Bored: 
+	say "Fuck me hard, but don't harm me."; 
+	rule succeds.
+]	
+
+Bored is in the bedroom.
+
+The computer is a thing in the bedroom. 
+
+The description of the computer is "an ancient full tower style PC, half covered in rust, rust, and condom wrappers, but capable of functioning as a typical workstation."
+The computer is fixed in place.
+Instead of taking the computer, say "It weights more than five hundred lbs. Which is too much kilograms for your metric arms."
+
+[
+Instead of inspecting Bored, say "Just making eye contact is enough to start the fucking of Bored, all over again." 
+]
+
+A stack of CDs is a thing. "A stack of assorted CDs, most but not all are encassed in jewel cases."
+The stack of CDs is a container.
+
+Instead of taking the stack of CDs: 
+	if the player is not carrying the precious CD:
+		say "You hesitate, as you are not going to waste a dozen CDs like that time you went wild with the breakfast crowd at Denny's, instead you nod to yourself, and do the wise thing and remove a single precious CD from the stack.";
+[	say "Or, you tried to, but suddenly you wake up on the floor. Fainting spell?";]
+[	give the precious CD to the player;]
+		try silently taking the precious CD;
+	else:
+		say "You already have the One True CD. Time to move on."
+
+
+The stack is in the bedroom.
+
+The precious CD is a thing in the stack of CDs. ["the One True CD, with Songs written in the Sacred Clef."]
+[When play starts: it is invisible.]
+
+The dog is an animal. "An heroic dog, d-g." 
+[The dog is called Paul.]
+[Understand d-g to mean dog.]
+
+The dog collar is a thing. 
+[ -- why does this not work?
+The description of the collas is "a dog collar with the repeating string 'D-G' printed along the collar."
+]
+The dog is wearing the dog collar. 
+Instead of examining the collar, say "a dog collar with the repeating string 'D-G' printed along the collar."
+
+Instead of examining the dog, say "a Dalmation with Cyan spots rather than the usual Black."
+
+Instead of attacking the dog:
+	say "You kicked my dog, and not it needs operation! You bastard!";
+	end the story saying "BAD END: cruelty to animals".
+	
+The dog is in the bedroom.
+
+[... to be continued, but not bad for less than an hour just before bed. ]
+
+
+	
+
+
+
+
+
